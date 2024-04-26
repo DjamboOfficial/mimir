@@ -121,7 +121,7 @@ export default function Header() {
           className="bg-gray-50 border border-gray-20 rounded text-sm w-full py-2 px-4 max-w-[210px]"
         />
 
-        {/* menu items */}
+        {/* menu items ! */}
 
         {session ? (
           <>
