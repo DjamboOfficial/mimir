@@ -106,7 +106,8 @@ export default function Header() {
         </Link>
         <Link href="/" className="hidden lg:inline-flex">
           <Image
-            src="https://res.cloudinary.com/dgwvbd9ki/image/upload/v1713772755/mimir/logo-mimir_exh37o.png"
+            className="rounded-xl cursor-"
+            src="https://res.cloudinary.com/dgwvbd9ki/image/upload/v1718099225/portfolio/Screenshot_2024-06-11_alle_11.46.40_pozowx.png"
             width={100}
             height={100}
             alt="mimir-logo"
